@@ -1,4 +1,4 @@
-📊 Business Sales Dashboard from E-commerce Data
+📊 SUPERSTORE Sales Dashboard from E-commerce Data
 This project focuses on analyzing e-commerce sales data to uncover key business insights using Power BI. The dashboard helps identify best-selling products, sales trends over time, and high-revenue categories, enabling data-driven decision-making for business growth.
 
 🔍 Key Features:
